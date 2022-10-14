@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.190,=D:\kurs\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.634,=D:\kurs\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.412,=D:\kurs\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.605,=D:\kurs\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.249,=D:\kurs\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.040,=D:\kurs\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.967,=D:\kurs\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.254,=D:\kurs\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.361,=D:\kurs\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.033,=D:\kurs\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.879,D:\kurs\uServ.pas=D:\kurs\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.234,D:\kurs\uMasters.pas=D:\kurs\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.393,D:\kurs\uSpec.pas=D:\kurs\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.238,D:\kurs\uSpec.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.272,D:\kurs\Unit1.pas=D:\kurs\uReport.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.914,=D:\kurs\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.211,D:\kurs\Unit1.pas=D:\kurs\uMainPage.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.175,D:\kurs\Unit1.pas=D:\kurs\uEdRecord.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,D:\kurs\Unit1.pas=D:\kurs\uEdServ.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.840,=D:\kurs\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.178,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.995,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.281,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.272,D:\kurs\Unit1.dfm=D:\kurs\uReport.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.289,D:\kurs\prKursach.dproj=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.517,D:\kurs\uClients.dfm=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.033,D:\kurs\uAdd.dfm=D:\kurs\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.879,D:\kurs\uServ.dfm=D:\kurs\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.033,D:\kurs\uAdd.pas=D:\kurs\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.211,D:\kurs\Unit1.dfm=D:\kurs\uMainPage.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.206,D:\kurs\uEdMasters.pas=D:\kurs\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.234,D:\kurs\uMasters.dfm=D:\kurs\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.469,D:\kurs\uReport.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.898,D:\kurs\uEdSpec.dfm=D:\kurs\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.898,D:\kurs\uEdSpec.pas=D:\kurs\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.175,D:\kurs\Unit1.dfm=D:\kurs\uEdRecord.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,D:\kurs\Unit1.dfm=D:\kurs\uEdServ.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.206,D:\kurs\uEdMasters.dfm=D:\kurs\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.517,D:\kurs\uClients.pas=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="uMainPage.pas"/>
+    <File Path="uMainPage.dfm"/>
+    <File Path="uClients.pas"/>
+    <File Path="uClients.dfm"/>
+    <File Path="uAdd.pas"/>
+    <File Path="uAdd.dfm"/>
+    <File Path="uMasters.pas"/>
+    <File Path="uMasters.dfm"/>
+    <File Path="uServ.pas"/>
+    <File Path="uServ.dfm"/>
+    <File Path="uEdServ.pas"/>
+    <File Path="uEdServ.dfm"/>
+    <File Path="uEdMasters.pas"/>
+    <File Path="uEdMasters.dfm"/>
+    <File Path="uEdRecord.pas"/>
+    <File Path="uEdRecord.dfm"/>
+    <File Path="uEdSpec.pas"/>
+    <File Path="uEdSpec.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
